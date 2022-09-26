@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A11yTime
-- 👀 I’m interested in to create accessible web world to equal access regarless of ability 
+- 👀 I’m interested in to create accessible web world to equal access regardless of ability 
 - 🌱 I’m currently learning JS code/Vue JS impact accessibility 
 - 💞️ I’m looking to collaborate on inclusive coding 
 - 📫 How to reach me ...
